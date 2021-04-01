@@ -12,7 +12,7 @@ project "Yaml"
     "include/**.h"
 	}
 
-  includedir
+  includedirs
   {
     "include"
   }
